@@ -13,4 +13,8 @@ Me chamo Ricardo Lopes Rodrigues Jr. :raising_hand:
 ## Estudando:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rkadinho&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkadinho&layout=compact&theme=dracula)
+<div>
+<a href="https://github.com/Rkadinho">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkadinho&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rkadinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
